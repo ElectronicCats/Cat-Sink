@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CatSink)(type KiCad)(uri ${KIPRJMOD}/Library/CatSink.pretty)(options "")(descr ""))
+)

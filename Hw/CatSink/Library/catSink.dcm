@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CYPD3177-24LQXI
+D f
+F https://www.cypress.com/file/460416/download
+$ENDCMP
+#
+$CMP SI3421DV
+D P-MOSFET transistor, gate/source/drain
+K transistor PMOS P-MOS P-MOSFET
+F https://www.mouser.mx/datasheet/2/427/si3421dv-1764435.pdf
+$ENDCMP
+#
+$CMP SW_SP4T
+D Switch, three position, single pole triple throw, 3 position switch, SP3T
+K switch sp3t ON-ON-ON
+F ~
+$ENDCMP
+#
+#End Doc Library
