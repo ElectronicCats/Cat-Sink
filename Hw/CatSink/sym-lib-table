@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name catSink)(type Legacy)(uri ${KIPRJMOD}/Library/catSink.lib)(options "")(descr ""))
+  (lib (name CatSink-rescue)(type Legacy)(uri ${KIPRJMOD}/CatSink-rescue.lib)(options "")(descr ""))
 )

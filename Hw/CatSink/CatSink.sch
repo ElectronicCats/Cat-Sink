@@ -52,7 +52,7 @@ F 5 "C144884" H 5810 1135 50  0001 C CNN "lcsc"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector:USB_C_Plug_USB2.0 P1
+L CatSink-rescue:USB_C_Plug_USB2.0-Connector P1
 U 1 1 5F957B03
 P 1365 2080
 F 0 "P1" H 1472 2947 50  0000 C CNN
