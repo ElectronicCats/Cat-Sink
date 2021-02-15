@@ -12,7 +12,7 @@ USB-C PD offers the option to negotiate power delivery from a compatible power s
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
-<a href="https://electroniccats.com/store/bast-pro-mini-m0/">
+<a href="https://electroniccats.com/store/catsink-usb-c-pd/">
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
 </a>
 
