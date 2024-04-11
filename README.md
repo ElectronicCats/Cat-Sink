@@ -19,6 +19,17 @@ A USB-C PD Sink up to 20V 5A based on the Cypress CYPD3177 USB PD Controller
 
 USB-C PD offers the option to negotiate power delivery from a compatible power supply. This board plays the role of a sink device, enabling any device to be powered by a USB power supply. Any type of power connector can be attached through a 2-pin screw terminal or directly soldered into the PCB for a lower profile. The voltage can be set to 5V, 9V, 12V, or 20V and the maximum negotiable current can be set to 1A, 2A, 3A, or 5A. Other voltage or current settings are possible by changing resistors. No programming is needed.
 
+## How to contribute <img src="https://electroniccats.com/wp-content/uploads/2018/01/fav.png" height="35"><img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="30">
+ Contributions are welcome! 
+
+Please read the document  [**Contribution Manual**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-contribution-manual.md)  which will show you how to contribute your changes to the project.
+
+✨ Thanks to all our [contributors](https://github.com/ElectronicCats/Cat-Sink/graphs/contributors)! ✨
+
+See [**_Electronic Cats CLA_**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-cla.md) for more information.
+
+See the  [**community code of conduct**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-community-code-of-conduct.md) for a vision of the community we want to build and what we expect from it."						
+
 ## License
 
 <a href="https://github.com/ElectronicCats">
